@@ -1,0 +1,19 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Coding Ninja Journey'
+theme = "beautifulhugo"
+#pygmentsStyle = "trac"
+
+[Params]
+subtitle = "Developing Skills, Developing You: Code Your Path to Mastery"
+logo = "images/CodingNinjaJourney-Logo.png"
+dateFormat = "January 2, 2006"
+readingTime = true
+wordCount = true
+useHLJS = true
+showRelatedPosts = true
+
+[[menu.main]]
+name = "Blog"
+url = 'blog'
+weight = 1
