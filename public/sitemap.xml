@@ -30,5 +30,7 @@
     <loc>/categories/</loc>
   </url><url>
     <loc>/pages/</loc>
+  </url><url>
+    <loc>/posts/posts/test/</loc>
   </url>
 </urlset>
