@@ -23,6 +23,12 @@
     <loc>/tags/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/_index.md/</loc>
+  </url><url>
+    <loc>/pages/about/</loc>
+  </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/pages/</loc>
   </url>
 </urlset>

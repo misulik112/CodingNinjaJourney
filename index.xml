@@ -22,5 +22,19 @@
       <guid>/posts/posts/blog-creation/</guid>
       <description>&lt;h1 id=&#34;hi-there-welcome-to-my-first-blog-post&#34;&gt;Hi there, welcome to my first blog post.&lt;/h1&gt;&#xA;&lt;p&gt;Today we will create a pipeline for a blog written in Obsidian and will be hosted on Hostinger using GitHub. I use Arch Linux and the setup will be mainly for Linux/Mac but it can adapted for the Windows easily.&lt;/p&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Set up my blog file structure in Obsidian&lt;/li&gt;&#xA;&lt;li&gt;Install Hugo and selecting a theme for the blog&lt;/li&gt;&#xA;&lt;li&gt;Create script for copying the images from Obsidian to the blog&lt;/li&gt;&#xA;&lt;li&gt;Host the blog with the Hostinger&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;It will have two sets of scripts because the file paths are different:&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>/_index.md/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/_index.md/</guid>
+      <description>&lt;h2 id=&#34;front-page-content&#34;&gt;Front Page Content&lt;/h2&gt;&#xA;&lt;p&gt;&lt;code&gt;beautifulhugo&lt;/code&gt; supports content on your front page. Edit &lt;code&gt;/content/_index.md&lt;/code&gt; to change what appears here. Delete &lt;code&gt;/content/_index.md&lt;/code&gt; if you don&amp;rsquo;t want any content here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/about/</guid>
+      <description>&lt;p&gt;My Learning Journey: Python, Photography, Japanese, and Finance&lt;/p&gt;&#xA;&lt;p&gt;Hi there! I’m UAM and this is the start of an exciting journey where I’ll be learning and documenting my progress in Python, photography, Japanese, and finance. Whether you&amp;rsquo;re a fellow learner, a curious reader, or someone looking to pick up one of these skills, I hope to share insights, tutorials, and reflections that will help us all grow together.&lt;/p&gt;&#xA;&lt;p&gt;Who Am I?&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
