@@ -7,7 +7,7 @@ cd "$SCRIPT_DIR"
 
 # Set variables for Obsidian to Hugo copy
 sourcePostsPath="/home/uam/Sync/ObsidianVaults/CodingNinjaJourney/posts"
-destinationPostsPath="/home/uam/Documents/CodingNinjaJourney/content/posts"
+destinationPostsPath="/home/uam/Documents/CodingNinjaJourney/content/posts/"
 
 # Set GitHub Repo
 myrepo="git@github.com:misulik112/CodingNinjaJourney.git"
