@@ -50,12 +50,12 @@ rsync -av --delete "$sourcePath" "$destinationPath"
 
 # Step 3: Process Markdown files with Python script to handle image links
 echo "Processing image links in Markdown files..."
-if [ ! -f "images.py" ]; then
+if [ ! -f "scripts/images.py" ]; then
   echo "Python script images.py not found."
   exit 1
 fi
 
-if ! python3 images.py; then
+if ! python3 scripts/images.py; then
   echo "Failed to process image links."
   exit 1
 fi
