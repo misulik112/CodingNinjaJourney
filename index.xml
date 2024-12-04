@@ -36,5 +36,12 @@
       <guid>/pages/about/</guid>
       <description>&lt;p&gt;My Learning Journey: Python, Photography, Japanese, and Finance&lt;/p&gt;&#xA;&lt;p&gt;Hi there! I’m UAM and this is the start of an exciting journey where I’ll be learning and documenting my progress in Python, photography, Japanese, and finance. Whether you&amp;rsquo;re a fellow learner, a curious reader, or someone looking to pick up one of these skills, I hope to share insights, tutorials, and reflections that will help us all grow together.&lt;/p&gt;&#xA;&lt;p&gt;Who Am I?&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>This is a test</title>
+      <link>/posts/posts/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/posts/test/</guid>
+      <description>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;&#xA;&lt;p&gt;This is a test for a second blog post.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
