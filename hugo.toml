@@ -1,4 +1,8 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Coding Ninja Journey'
 theme = "beautifulhugo"
+
+[Params]
+mainSections = ["post", "posts"]
+logo = "images/CodingNinjaJourney-Logo.png"
