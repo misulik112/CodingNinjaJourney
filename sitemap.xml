@@ -31,6 +31,10 @@
   </url><url>
     <loc>/pages/</loc>
   </url><url>
+    <loc>/posts/posts/testing/</loc>
+  </url><url>
     <loc>/posts/posts/test/</loc>
+  </url><url>
+    <loc>/posts/test/</loc>
   </url>
 </urlset>
