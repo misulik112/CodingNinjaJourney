@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first blog with Obsidian, Hugo, GitHub and Hostinger</title>
+      <link>/posts/posts/blog-creation/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/posts/blog-creation/</guid>
+      <description>&lt;h1 id=&#34;hi-there-welcome-to-my-first-blog-post&#34;&gt;Hi there, welcome to my first blog post.&lt;/h1&gt;&#xA;&lt;p&gt;Today we will create a pipeline for a blog written in Obsidian and will be hosted on Hostinger using GitHub. I use Arch Linux and the setup will be mainly for Linux/Mac but it can adapted for the Windows easily.&lt;/p&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Set up my blog file structure in Obsidian&lt;/li&gt;&#xA;&lt;li&gt;Install Hugo and selecting a theme for the blog&lt;/li&gt;&#xA;&lt;li&gt;Create script for copying the images from Obsidian to the blog&lt;/li&gt;&#xA;&lt;li&gt;Host the blog with the Hostinger&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;It will have two sets of scripts because the file paths are different:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
