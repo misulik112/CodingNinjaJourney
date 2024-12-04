@@ -16,6 +16,13 @@
       <description>&lt;h1 id=&#34;hi-there-welcome-to-my-first-blog-post&#34;&gt;Hi there, welcome to my first blog post.&lt;/h1&gt;&#xA;&lt;p&gt;Today we will create a pipeline for a blog written in Obsidian and will be hosted on Hostinger using GitHub. I use Arch Linux and the setup will be mainly for Linux/Mac but it can adapted for the Windows easily.&lt;/p&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Set up my blog file structure in Obsidian&lt;/li&gt;&#xA;&lt;li&gt;Install Hugo and selecting a theme for the blog&lt;/li&gt;&#xA;&lt;li&gt;Create script for copying the images from Obsidian to the blog&lt;/li&gt;&#xA;&lt;li&gt;Host the blog with the Hostinger&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;It will have two sets of scripts because the file paths are different:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Pirates arrrr</title>
+      <link>/posts/222/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/posts/222/</guid>
+      <description>&lt;p&gt;Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the perpetrator (e.g. one passenger stealing from others on the same vessel). The term has been used throughout history to refer to raids across land borders by non-state agents.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title></title>
       <link>/_index.md/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
