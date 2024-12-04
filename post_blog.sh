@@ -7,7 +7,7 @@ cd "$SCRIPT_DIR"
 
 # Set variables for Obsidian to Hugo copy
 sourcePostsPath="/home/uam/Sync/ObsidianVaults/CodingNinjaJourney/posts"
-destinationPostsPath="/home/uam/Documents/CodingNinjaJourney/content/posts/"
+destinationPath="/home/uam/Documents/CodingNinjaJourney/content"
 
 # Set GitHub Repo
 myrepo="git@github.com:misulik112/CodingNinjaJourney.git"
@@ -41,12 +41,12 @@ if [ ! -d "$sourcePostsPath" ]; then
   exit 1
 fi
 
-if [ ! -d "$destinationPostsPath" ]; then
-  echo "Destination path does not exist: $destinationPostsPath"
+if [ ! -d "$destinationPath" ]; then
+  echo "Destination path does not exist: $destinationPath"
   exit 1
 fi
 
-rsync -av --delete "$sourcePostsPath" "$destinationPostsPath"
+rsync -av --delete "$sourcePostsPath" "$destinationPath"
 
 # Step 3: Process Markdown files with Python script to handle image links
 echo "Processing image links in Markdown files..."
